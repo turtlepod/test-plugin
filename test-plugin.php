@@ -6,6 +6,7 @@
  */
 
 
+
 function mytestcode( $param ) {
 	echo $param;
 }
