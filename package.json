@@ -2,6 +2,11 @@
   "name": "test",
   "version": "1.0.0",
   "description": "test",
+  "homepage": "https://github.com/turtlepod/test-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turtlepod/test-plugin"
+  },
   "author": {
     "name": "turtlepod",
     "email": "david@shellcreepers.com",

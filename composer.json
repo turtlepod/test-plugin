@@ -14,7 +14,7 @@
     "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0"
   },
   "scripts": {
-    "lint": "phpcs --standard=WordPress --basepath=. --warning-severity=8 --ignore=*/vendor/*,*/node_modules/* test-plugin.php",
+    "lint": "phpcs --standard=WordPress --basepath=. --warning-severity=8 --ignore=*/vendor/*,*/node_modules/* .",
     "lint-fix": "phpcbf --standard=WordPress --ignore=*/vendor/*,*/node_modules/* ."
   }
 }
