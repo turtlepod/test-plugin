@@ -5,6 +5,7 @@
  * @package MyTest
  */
 
+
 function mytestcode( $param ) {
 	echo $param;
 }
